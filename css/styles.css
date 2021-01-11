@@ -2,3 +2,26 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Belleza|Calligraffitti|Chonburi|Forum|Imprima&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Belleza|Calligraffitti|Carter+One|Chonburi|Forum|Imprima&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Amarante|Elsie|Paprika&display=swap');
+
+
+#intro{
+
+    color: white;
+    font-weight: bold;
+ 
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 230px;
+    height: 600px;
+    font-family: Calligraffitti;
+  }
+  .menu {
+ 
+   color: yellow;
+   text-shadow: 6px 6px green;
+   font-family: Calligraffitti;
+   font-size: 30px;
+   }
+   body{
+     font-family: Calligraffitti;
+   }
