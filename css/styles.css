@@ -25,3 +25,26 @@
    body{
      font-family: Calligraffitti;
    }
+   h1{
+    color:red;
+    font-family: Calligraffitti;
+  
+  }
+  body{
+  
+      background-image: url("../images/intro.jpg");
+      background-size: cover;
+       background-repeat: no-repeat;
+    background-color: red;
+  }
+  .btn{
+    color: white;
+    border-color: black;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+  }
