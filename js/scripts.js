@@ -48,7 +48,7 @@ $(document).ready(function () {
         var number = $("input#number").val();
         var location = $("input#location").val();
 
-        alert("Hey!" + name + ". Tam Tam Pizza has received your order and it will soon be delivered to you at " +  location + ".Delivery will cost an extra sh 200 payable on delivery.We are glad to serve you.Thank you for choosing us.");
+        alert("Hey!" + name + ". The Pizza Connection has received your order and it will soon be delivered to you at " +  location + ".Delivery will cost an extra sh 200 payable on delivery.We are glad to serve you.Thank you for choosing us.");
 
         
     });
