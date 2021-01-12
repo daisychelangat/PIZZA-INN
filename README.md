@@ -43,4 +43,5 @@ A web application for PIZZA-INN where  customers order different sizes of pizzas
 ## Contact Information
 
 For any questions and contributions reach me at`daisyrop2000@gmail.com'
-##LICENSE:
+
+##LICENSE:https://github.com/daisychelangat/PIZZA-INN/blob/main/LICENSE
