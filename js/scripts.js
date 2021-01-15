@@ -1,3 +1,4 @@
+
 var total,crust_cost,size_cost;
 
 function getCostPerSize() {
